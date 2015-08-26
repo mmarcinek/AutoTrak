@@ -63,7 +63,7 @@ form {
 .userNumPad{
   // border: 1px solid rgba(0,0,0, 0.3);
   width: 479px;
-  height: 390px;
+  height: 490px;
   margin: 5% auto;
 
   .md-button {
@@ -72,7 +72,8 @@ form {
     color: white;
     height: 85px;
     width: 140px;
-  }
+
+  },
 
   .md-button:hover {
     background-color: #455A64;
@@ -223,11 +224,3 @@ form {
     width: 45px;
   }
 }
-
-
-
-
-
-
-
-
